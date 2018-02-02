@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="6849 6041 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3e3e3e;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #076ce2;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_36" data-name="Rectangle 36" class="cls-1" width="40" height="40" transform="translate(512 4802)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_19" data-name="Mask Group 19" class="cls-2" transform="translate(6337 1239)">
+    <g id="coin" transform="translate(510.762 4801.647)">
+      <g id="Group_344" data-name="Group 344">
+        <path id="Path_100" data-name="Path 100" class="cls-3" d="M26.473,25.594H21.461a3.777,3.777,0,0,1,0-7.553h8.846a1.723,1.723,0,1,0,0-3.446H25.7V11.076a1.723,1.723,0,0,0-3.446,0v3.518h-.79a7.223,7.223,0,1,0,0,14.446h5.012a3.777,3.777,0,1,1,0,7.553h-9a1.723,1.723,0,1,0,0,3.446h4.767v3.59a1.723,1.723,0,1,0,3.446,0V40.04h.876a7.223,7.223,0,0,0-.086-14.446Z" transform="translate(-3 -7)"/>
+      </g>
+    </g>
+  </g>
+</svg>

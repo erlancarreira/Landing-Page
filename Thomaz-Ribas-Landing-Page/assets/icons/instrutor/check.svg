@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="6639.5 2667.5 36 27.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #09b27e;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 8px;
+      }
+    </style>
+  </defs>
+  <path id="check" class="cls-1" d="M32,6,12.75,25.25,4,16.5" transform="translate(6639.5 2665.5)"/>
+</svg>

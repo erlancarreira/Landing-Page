@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="6345 4546 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3e3e3e;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #076ce2;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_34" data-name="Rectangle 34" class="cls-1" width="40" height="40" transform="translate(369 4733)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_17" data-name="Mask Group 17" class="cls-2" transform="translate(5976 -187)">
+    <g id="file" transform="translate(369 4733)">
+      <g id="Group_327" data-name="Group 327">
+        <g id="Group_326" data-name="Group 326">
+          <path id="Path_79" data-name="Path 79" class="cls-3" d="M34.995,8.1a.935.935,0,0,0-.272-.653L27.553.274h0A.933.933,0,0,0,26.891,0H6.975A1.974,1.974,0,0,0,5,1.972V38.028A1.974,1.974,0,0,0,6.975,40h26.05A1.974,1.974,0,0,0,35,38.028V8.106A.069.069,0,0,0,34.995,8.1ZM27.828,3.2,31.8,7.169H27.926a.1.1,0,0,1-.1-.1V3.2Zm5.3,34.831a.1.1,0,0,1-.1.1H6.975a.1.1,0,0,1-.1-.1V1.972a.1.1,0,0,1,.1-.1h18.98v5.2a1.974,1.974,0,0,0,1.972,1.972h5.2V38.028Z"/>
+        </g>
+      </g>
+      <g id="Group_329" data-name="Group 329">
+        <g id="Group_328" data-name="Group 328">
+          <path id="Path_80" data-name="Path 80" class="cls-3" d="M28.288,12.814H11.712a.937.937,0,1,0,0,1.873H28.288a.937.937,0,0,0,0-1.873Z"/>
+        </g>
+      </g>
+      <g id="Group_331" data-name="Group 331">
+        <g id="Group_330" data-name="Group 330">
+          <path id="Path_81" data-name="Path 81" class="cls-3" d="M28.288,18.465H11.712a.937.937,0,1,0,0,1.873H28.288a.937.937,0,0,0,0-1.873Z"/>
+        </g>
+      </g>
+      <g id="Group_333" data-name="Group 333">
+        <g id="Group_332" data-name="Group 332">
+          <path id="Path_82" data-name="Path 82" class="cls-3" d="M28.288,24.117H11.712a.937.937,0,0,0,0,1.873H28.288a.937.937,0,0,0,0-1.873Z"/>
+        </g>
+      </g>
+      <g id="Group_335" data-name="Group 335">
+        <g id="Group_334" data-name="Group 334">
+          <path id="Path_83" data-name="Path 83" class="cls-3" d="M20,29.768H11.712a.937.937,0,0,0,0,1.873H20a.937.937,0,1,0,0-1.873Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
