@@ -1,0 +1,490 @@
+/* Telefones em paisagem e abaixo */
+@media (max-width: 480px) { 
+     /* estilos aqui */
+
+     .bg-white-fix {
+	bottom: 0;
+	top: unset;
+    }
+
+    .col-1 {
+    	margin: 0;
+    }
+
+     .container {
+    	padding: 0 16px;
+    }	
+    .card-right {
+    	flex: unset;
+    }
+
+    .titulo-h1 {
+    	display: none;
+    }
+
+    .titulo-mobile { 
+    display: block !important;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 24px;
+    margin: 26px 0;
+    }
+
+    .mobile-body {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    padding-right: 14%; 
+}
+
+.menu {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.btn-menu a {
+    padding: 14px 30px;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 700;
+    margin: 15px 0;
+}
+
+.menu .parcelas p {
+    font-family: 'Roboto Regular', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 80px;
+}
+
+.action-header em {
+    font-size: normal !important;
+}
+    
+
+.home-btn {
+    display: block;
+    font-size: 1.3em;
+    /* float: left; */
+    padding: 0 40px;
+    margin: 20px 0px;
+    line-height: 62px;
+    
+}   
+
+.workshop-voce h2 {
+	padding-right: 25px; 
+}
+
+.box-vagas {
+    flex: 1;
+}
+
+.duvidas {
+    flex: 1;
+}
+
+.btn-wp {
+	width: auto;
+}
+
+.btn-footer {
+
+    font-size: 1.2em;
+}
+
+.titulos-depoimentos {
+	padding: 60px 0;
+}
+
+.box-main {
+    width: 330px;
+}
+
+.col-100 {
+	display: unset;
+ }
+
+.footer {
+    display: -webkit-box;   	
+}
+
+.icon-mark img {
+    height: 20px;
+    margin: 0;
+}
+
+.img-left {
+    width: 35%;
+    height: 221px;
+
+}
+
+.card-thomaz h2 {
+    margin: 26px 0px 0px 20px; 
+    }
+
+.icon-mark {
+    margin-top: 15px;
+} 
+
+
+.instrutor-info {
+    font-size: 18px;
+    line-height: 26px;
+}    
+
+.encontro-aovivo img {
+    width: 100px;
+    height: 100px;
+}
+
+.encontro-aovivo {
+    margin: 120px auto;
+    }
+
+.encontro-aovivo h2 {
+	font-size: 30px;
+	line-height: 39px;
+	font-weight: 700;
+
+}
+
+.encontro-aovivo p {
+    text-align: left !important;
+    font-size: 20px;
+    line-height: 29px;
+} 
+
+.exp-info h2 {
+    font-size: 27px;
+    line-height: 37px;
+}
+
+.exp-p1, .exp-p2 {
+    padding: 20px 0;
+    margin-right: 0px;
+    font-size: 20px;
+    line-height: 29px;
+    
+}
+
+#map {
+    height: 246px !important; 
+}
+
+.workshop img {
+    position: relative;
+    bottom: -8px;
+    margin-right: 15px;
+}
+
+.workshop h4 {
+	margin-bottom: 12px;
+}
+
+.workshop-gestao p {
+    font-size: 16px;
+}
+
+.workshop-gestao span {
+	font-size: 16px;
+}
+
+.order-1 {
+   order: 1;	
+}
+
+.slick-dots li button:before {
+    line-height: 10px;
+    width: 10px;
+    height: 10px;
+}
+
+.perguntas h6 {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.p-freguentes {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.navicon {
+    margin-left: 15px;
+    top: -14px;
+}
+
+.duvidas p {
+    text-align: left;	
+}
+
+.btn-footer {
+    padding: 15px 40px;
+}    
+
+.box-vagas h2 {
+    padding: 46px 0px 30px;
+    font-size: 30px;
+    font-weight: 700;
+} 
+
+.box-vagas img {
+	margin-right: 4px;
+	position: relative;
+    left: -8px;
+}   
+
+.vagas-row {
+	padding: 14px 20px;
+}
+
+.slick-active .box-main {
+    width: 360px !important;
+}
+
+.slick-dots {
+    margin: 0;
+	margin-bottom: 60px;
+}
+
+.modalCont {
+    max-width: 328px;
+    margin: 50px auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    }
+
+.modal-body {
+    padding: 19px;     
+}
+
+.modal-body h2 {    
+   font-size: 21px;
+   line-height: 25px;
+   }
+
+.modal-body p {
+   font-size: 18px;
+   line-height: 36px;
+   
+   } 
+
+.btn {
+    height: 65px;
+}
+
+
+.btn button {
+    font-size: 16px;
+    line-height: 65px; 
+}
+
+
+
+
+
+}    
+ 
+/* Telefones em paisagem a tablet em retrato */
+@media (max-width: 767px) {
+     /* estilos aqui */    
+    .menu {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    }
+
+	.action-titulo {
+    	display: none;
+    	width: 0;
+    }  
+
+    .home-btn em {
+      display: none; 
+    }
+
+    .workshop {
+	    display: flex;
+	    margin: 26px 0px;
+	    flex: 1 1 0%;
+    }
+
+    .col-12 {
+    margin: 60px auto;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+   .row-50 {
+    display: flex;
+    /* flex-wrap: wrap; */
+    flex-direction: column;
+}
+   .titulo-workshop {
+    flex: 0 0 100%;
+}
+    
+   .col-100 {
+   	flex-wrap: wrap;
+   }
+
+   .duvidas {
+   	margin: 60px auto;
+   	text-align: center;
+   }
+
+    .card-thomaz .img-left {
+    width: 100%;
+    }
+
+
+    .card-right {
+    flex: 1;
+    margin: 0;
+    padding-bottom: 20px;	
+    }
+
+    .encontro-aovivo {
+     flex-wrap: wrap;
+     justify-content: center;
+     flex-direction: column;
+    }
+
+    .encontro-aovivo h2, .encontro-aovivo p {
+    	text-align: center;
+    }
+
+    .row {
+    	padding: 20px 10px;
+    }
+	
+	.box-vagas {
+    margin: 60px auto;
+}
+
+  
+
+
+	.encontro-aovivo img {
+	    margin: 50px auto;
+	}   
+
+	.encontro-aovivo {
+    margin: 120px auto;
+    }
+   
+   .menu .parcelas p {
+   	 margin-right: 0;
+   }
+
+   .btn-menu a {
+    padding: 14px 30px;
+   }
+	
+	.slick-active .box-main {
+		width: 420px;
+	}
+
+    .instrutor {
+    flex: 1 1 100%;
+    margin: 10px 0px 0px 26px;
+    }
+
+  
+   .btn button {
+    font-size: 16px;
+   } 
+}
+
+@media (max-width: 878px ) {
+	 .action-titulo {
+    	display: none;
+    }  
+   
+    .menu {
+    	display: unset;
+    }
+    .grupo-menu {
+       display: block;
+       height: 80px;
+       line-height: 80px;
+    }
+
+    .parcelas  {
+    display: block;
+    float: left;
+    /* height: 80px; */
+}
+
+    .btn-menu {
+    	display: block;
+    	float: right;
+    }
+
+}
+ 
+/* Tablet em retrato a paisagem e desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+     /* estilos aqui */
+
+    .workshop {
+	    display: flex;
+	    margin: 26px auto;
+	    flex: 1 1 40%;
+    }
+
+    .instrutor-info {
+      margin-bottom: 30px;
+    }  
+    
+    .img-left { 
+      flex: 1;
+      height: 488px;
+    }  
+
+    .card-right {
+    	margin-right: 0;
+    } 
+    
+   
+}
+ 
+/* Desktop grande */
+@media (min-width: 1200px) {
+    /* estilos aqui */
+}
+
+/*
+@media (min-width: 37em) { ... }  592px 
+@media (min-width: 41em) { ... }  656px 
+@media (min-width: 47em) { ... }  752px 
+@media (min-width: 68em) { ... }  1088px 
+@media (min-width: 82em) { ... }  1312px 
+@media (min-width: 100em) { ... } 1600px 
+*/
+@media (max-width: 37em) { 
+    
+
+}
+
+
+
+	@media (max-width: 68em) { 
+
+    
+	
+	
+}
+
+
+@media (max-width: 47em) {  
+
+    
+
+
+}
